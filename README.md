@@ -14,6 +14,9 @@ The following section shows comparasion for prediction results of oversampling ,
 if we talk about accuracy score than out of four oversampling and undersampling algorithms randomoversampling,SMOTE and SMOTEENN have around 65 % accurate.But compare to sampling algorithms ensembling algorithms give more accuracy here balanced random forest classifier give 79 % accuracy and EasyEnsembleClassifier is 93% accurate.
 same with recall(sensitivity) that RandomOversampling ,SMOTE and SMOTEENN provide almost same recallAlso ensampling techniques have a good sensitivity value here BalencedRandomforest give 70% recall for low risk and 88% for high risk. EasyEnsembleClassifier give 92% recall for low risk and 94% for high risk.
 After comparing accuracy score ,precision and recall we can conculde that EasyEnsembleClassifier algorithm give good prediction among six algorithms.
+
+
+
 RandomOversampling
 SMOTE
 Undersampling
